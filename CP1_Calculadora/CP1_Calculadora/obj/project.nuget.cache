@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/thcAcR04Kw=",
+  "success": true,
+  "projectFilePath": "G:\\matheus g rosa\\segundo ano\\Advanced Business Development with NET\\CP1_Calculadora\\CP1_Calculadora\\CP1_Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fullz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\fullz\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\fullz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\fullz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
